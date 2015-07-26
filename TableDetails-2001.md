@@ -4,7 +4,7 @@
 + **A-02:** Decadal Variation in Population since 1901
 + **A-03:** Villages by Population Size Class
 + **A-04:** Towns and Urban Agglomerations Classified by Population Size Class with Variation since 1901
--------  
+
 #### General Economic Tables - (B - Series)
 + **B-01 [City, SC,ST]:** Main Workers,Marginal Workers,Non-Workers and those Marginal Workers,Non-Workers Seeking/Available for Work Classified by Age and Sex
 + **B-02:** Main Workers,Marginal Workers,Non-Workers and Those Marginal Workers,Non-Workers Seeking/ Available for Work Classified By Age,Sex and Religious Community
@@ -33,7 +33,7 @@
 + **B-25 [SC,ST]:** Occupational Classification of main Workers other than Cultivators and Agricultural Labourers by Sex
 + **B-26:** Occupational Classification of main Workers and Marginal Workers other than Cultivators and Agricultural Labourers by Age and Sex
 + **B-27:** Occupational Classification of main Workers and Marginal Workers other than Cultivators and Agricultural Labourers by Sex and Educational Level
--------
+
 #### Social & Cultural Tables - (C - Series)
 + **C-01 [City, Appendices]:** Population by Religious Community
 + **C-02 [City,SC,ST]:** Marital Status by Age and Sex
@@ -79,7 +79,7 @@
 + **D-10 [City]:** Migrants by Place of Last Residence,Age,Sex,Marital Status and Duration of Residence 0-9 Years
 + **D-11 [SC,ST]:** Persons Born and Enumerated in Districts of the State
 + **D-12:** Migrants by Place of Last Residence with Duration of Residence as 0-9 Years and Age
--------  
+
 #### Fertility Tables - (F - Series)
 + **F-01 [SC,ST]:** Number of Women and Ever Married Women by Present Age,Parity and Total Children Ever Born by Sex
 + **F-02 [SC,ST]:** Number of Women and Ever Married Women by Present Age,Parity,Religious Community and Total Children Ever Born by Sex
@@ -95,7 +95,7 @@
 + **F-12:** Number of Women and Currently Married Women by Present Age,Economic Activity,Number of Births Last Year by Sex and Birth Order
 + **F-13:** Ever Married Women by Number of Children Ever Born,Number of Male Children Ever Born and Number of Surviving Children by Sex
 + **F-14:** Currently Married Women by Number of Children Ever Born,Number of Male Children Ever Born and Number of Surviving Children by Sex
--------  
+
 #### Tables on Houses, Household Amenities and Assets (H-Series)
 + **H-01:** Census Houses and The Uses To Which They Are Put
 + **H-02 [SC,ST]:** Distribution of Census Houses Used As Residence and Residence-Cum-Other use by Their Condition
@@ -114,7 +114,7 @@
 + **H-11 [SC,ST]:** Distribution of Households by Availability of Separate Kitchen and type of Fuel Used for Cooking
 + **H-12 [SC,ST]:** Distribution of Households by Source and Location of Drinking Water and Availability of Electricity and Latrine
 + **H-13 [SC,ST]:** Number of Households Availing Banking Services and Number of Households Having Each of The Specified Asset
--------  
+
 #### Household Tables (HH - Series)
 + **HH-01 [SC,ST]:** Normal Households by Household Size
 + **HH-02:** Houseless Households by Household Size
