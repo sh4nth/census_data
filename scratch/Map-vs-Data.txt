@@ -1,0 +1,30 @@
+Data                                                            Map
+"Central Delhi",					      <
+							      >	"Delhi",
+"Dibang Valley",					      <
+"East Delhi",						      <
+							      >	"East Midnapore",
+							      >	"Greater Bombay",
+							      >	"Jamtara",
+"Kheri",						      <
+							      >	"Kurung Kumey",
+							      >	"Lakhimpur Kheri",
+							      >	"Latehar",
+							      >	"Lower Dibang Valley",
+"Medinipur",						      <
+"Mumbai (Suburban)",					      <
+"Mumbai",						      <
+"New Delhi",						      <
+"North Delhi",						      <
+"North East Delhi",					      <
+"North West Delhi",					      <
+							      >	"Saraikela Kharsawan",
+							      >	"Simdega",
+"South Delhi",						      <
+"South West Delhi",					      <
+							      >	"Upper Dibang Valley",
+"West Delhi",						      <
+							      >	"West Midnapore",
+							      >	"ZZZ-Anuppur",
+							      >	"ZZZ-Burhanpur",
+							      >	"ZZZ-ZZZ-Ashoknagar",
