@@ -65,7 +65,7 @@
 + **C-28:** Disabled among Other workers by type of Disabiliteas distance from Residence to Plase of work and Sex and by Mode of Travel
 + **C-29:** Disabled Population by Type of Disability,Educational Level and Sex
 + **C-30:** Disabled Population by Type of Disability,Type of Households and Sex
--------  
+
 #### Migration Tables - (D - Series)
 + **D-1 [Appendix]:** Population Classified by Place of Birth and Sex
 + **D-2 [SC,ST]:** Migrants Classified by Place of Last Residence, Sex and Duration of Residence in Place of Enumeration
