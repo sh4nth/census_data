@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import xlrd
 import csv
 import sys
@@ -7,6 +9,10 @@ import sys
 #
 # Usage: python xls2csv.py <filename.xls> <newname.csv>
 #
+
+if len(sys.argv) < 3:
+    print "Usage: python xls2csv.py <filename.xls> <newname.csv>"
+    sys.exit(1)
 
 ExcelFile=sys.argv[1]
 CSVFile=sys.argv[2]
