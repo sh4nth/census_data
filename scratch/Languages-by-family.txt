@@ -1,124 +1,138 @@
->>,,
->>,024000,Afghani/kabuli/pashto
->>,028000,Arabic/arbi
->>,030000,Bhili/bhilodi
->>,033000,Bishnupuriya
->>,034000,Chakhesang
->>,035000,Chakru/chokri
->>,037000,Coorgi/kodagu
->>,041000,Gadaba
->>,051000,Kabui
->>,057000,Khiemnungan
->>,058000,Khond/kondh
->>,060000,Kisan
->>,062000,Koda/kora
->>,065000,Konda
->>,070000,Kui
->>,072000,Kurukh/oraon
->>,076000,Lakher
->>,079000,Liangmei
->>,082000,Lushai/mizo
->>,086000,Miri/mishing
->>,087000,Mishmi
->>,089000,Monpa
->>,093000,Nissi/dafla
->>,100000,Pochury
->>,102000,Rai
->>,114000,Tibetan
->>,119000,Yimchungre
->>,121000,Zemi
->>,123000,Others
->>Language family>Austroasiatic languages>,092000,Nicobarese
->>Language family>Austroasiatic languages>Khasic languages>,055000,Khasi
->>Language family>Austroasiatic languages>Munda languages>,050000,Juang
->>Language family>Austroasiatic languages>Munda languages>,054000,Kharia
->>Language family>Austroasiatic languages>Munda languages>Koraput>,105000,Savara
->>Language family>Austroasiatic languages>Munda languages>North Munda languages>Kherwari languages>,018000,Santali
->>Language family>Austroasiatic languages>Munda languages>North Munda>,067000,Korku
->>Language family>Austroasiatic languages>Munda languages>North Munda>Kherwari>,032000,Bhumij
->>Language family>Austroasiatic languages>Munda languages>North Munda>Kherwari>,068000,Korwa
->>Language family>Austroasiatic languages>Munda languages>North Munda>Kherwari>,091000,Mundari
->>Language family>Austroasiatic languages>Munda languages>North Munda>Santali language>Kherwari>,048000,Ho
->>Language family>Austroasiatic languages>Santali language>Andhra Pradesh>Sora language>Grammatical tense>,090000,Munda
->>Language family>Dravidian languages>,044000,Gondi
->>Language family>Dravidian languages>,049000,Jatapu
->>Language family>Dravidian languages>,063000,Kolami
->>Language family>Dravidian languages>,069000,Koya
->>Language family>Dravidian languages>Central Dravidian>,096000,Parji
->>Language family>Dravidian languages>Northern Dravidian languages>,083000,Malto
->>Language family>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Kannada–Badaga>,007000,Kannada
->>Language family>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Tamil–Kodagu languages>Tamil–Malayalam languages>Malayalam languages>,011000,Malayalam
->>Language family>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Tamil–Kodagu languages>Tamil–Malayalam languages>Tamil languages>,020000,Tamil
->>Language family>Dravidian languages>Southern Dravidian>,116000,Tulu
->>Language family>Dravidian languages>Telugu languages>,021000,Telugu
->>Language family>Indo-European languages>Germanic languages>West Germanic languages>Ingvaeonic languages>Anglo-Frisian languages>English languages>,040000,English
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>,017000,Sanskrit
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Dardic languages>,008000,Kashmiri
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Dardic languages>,108000,Shina
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Bengali–Assamese languages>,001000,Assamese
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Bihari languages>,010000,Maithili
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Halbic languages>,045000,Halabi
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Hindi languages>Western Hindi>Hindustani language>Khariboli dialect>,022000,Urdu
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Indo-Aryan languages>,016000,Punjabi
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Indo-Aryan languages>Bengali–Assamese languages>,002000,Bengali
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Indo-Aryan languages>Pahari languages>,014000,Nepali
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>List of Eastern Indo-Aryan languages>Odia languages>,015000,Oriya
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>North-Western Indo-Aryan languages>Western Pahari>,004000,Dogri
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Northwestern Indo-Aryan languages>,075000,Lahnda
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Sanskrit language>Hindi languages>Western Hindi>Hindustani language>,006000,Hindi
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Sindhi languages>,019000,Sindhi
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Southern Indo-Aryan languages>Maharashtri Prakrit>Marathi–Konkani languages>,013000,Marathi
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Southern Indo-Aryan languages>Marathi–Konkani languages>,009000,Konkani
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Western Indo-Aryan languages>,053000,Khandeshi
->>Language family>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Western Indo-Aryan languages>Gujarati languages>,005000,Gujarati
->>Language family>Indo-European languages>Indo-Iranian languages>Iranian languages>Western Iranian languages>,098000,Persian
->>Language family>Niger–Congo languages>Atlantic–Congo languages>Benue–Congo>Southern Bantoid languages>Grassfields languages>,064000,Kom
->>Language family>Sino-Tibetan languages>,012000,Manipuri
->>Language family>Sino-Tibetan languages>Angami–Pochuri languages>,106000,Sema
->>Language family>Sino-Tibetan languages>Angami–Pochuri languages>Angami languages>,026000,Angami
->>Language family>Sino-Tibetan languages>Angami–Pochuri languages>Angami languages>,056000,Khezha
->>Language family>Sino-Tibetan languages>Angami–Pochuri languages>Pochuri languages>,103000,Rengma
->>Language family>Sino-Tibetan languages>Ao languages>,027000,Ao
->>Language family>Sino-Tibetan languages>Ao languages>,081000,Lotha
->>Language family>Sino-Tibetan languages>Ao languages>,104000,Sangtam
->>Language family>Sino-Tibetan languages>Brahmaputran languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,115000,Tripuri
->>Language family>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,036000,Chang
->>Language family>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,066000,Konyak
->>Language family>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,094000,Nocte
->>Language family>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,099000,Phom
->>Language family>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,118000,Wancho
->>Language family>Sino-Tibetan languages>Karbi language>Meithei language>,071000,Kuki
->>Language family>Sino-Tibetan languages>Kukish languages>Mikir languages>,052000,Karbi
->>Language family>Sino-Tibetan languages>Mahakiranti languages>Kiranti languages>,080000,Limbu
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>,038000,Deori
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,003000,Bodo
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,039000,Dimasa
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,077000,Lalung
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Garo languages>,043000,Garo
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Koch languages>,061000,Koch
->>Language family>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Koch languages>,101000,Rabha
->>Language family>Sino-Tibetan languages>Sal languages>Konyak languages>,112000,Tangsa
->>Language family>Sino-Tibetan languages>Tamangic languages>Writing system>,110000,Tamang
->>Language family>Sino-Tibetan languages>Tangkhul languages>,111000,Tangkhul
->>Language family>Sino-Tibetan languages>Tani languages>,023000,Adi
->>Language family>Sino-Tibetan languages>Tibeto-Burman language>Kukish languages>,046000,Halam
->>Language family>Sino-Tibetan languages>Tibeto-Burman language>Kukish languages>,095000,Paite
->>Language family>Sino-Tibetan languages>Tibeto-Burman language>Kukish languages>,113000,Thado
->>Language family>Sino-Tibetan languages>Tibeto-Burman language>Kukish languages>,122000,Zou
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,025000,Anal
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,042000,Gangte
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,097000,Pawi
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,109000,Simte
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,117000,Vaiphei
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Lolo–Burmese languages>Burmish languages>Burmese dialects>,088000,Mogh
->>Language family>Sino-Tibetan languages>Tibeto-Burman languages>Mizo language>,047000,Hmar
->>Language family>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,029000,Balti
->>Language family>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,031000,Bhotia
->>Language family>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,073000,Ladakhi
->>Language family>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,074000,Lahauli
->>Language family>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,107000,Sherpa
->>Language family>Sino-Tibetan languages>Tibeto-Kanauri languages>West Himalayish languages>,059000,Kinnauri
->>Language family>Sino-Tibetan languages>Writing system>Lepcha script>,078000,Lepcha
->>Language family>Sino-Tibetan languages>Zeme languages>,084000,Maram
->>Language family>Sino-Tibetan languages>Zeme languages>,120000,Zeliang
->>Language family>Trans–New Guinea languages>Chimbu–Wahgi languages>Jimi languages>,085000,Maring
+      >>Austroasiatic languages>,092000,Nicobarese
+      >>Austroasiatic languages>Khasic languages>,055000,Khasi
+      >>Austroasiatic languages>Munda languages>,050000,Juang
+      >>Austroasiatic languages>Munda languages>,054000,Kharia
+      >>Austroasiatic languages>Munda languages>Koraput>,105000,Savara
+      >>Austroasiatic languages>Munda languages>North Munda languages>Kherwari languages>,018000,Santali
+      >>Austroasiatic languages>Munda languages>North Munda>,067000,Korku
+      >>Austroasiatic languages>Munda languages>North Munda>Kherwari>,032000,Bhumij
+      >>Austroasiatic languages>Munda languages>North Munda>Kherwari>,062000,Koda/kora
+      >>Austroasiatic languages>Munda languages>North Munda>Kherwari>,068000,Korwa
+      >>Austroasiatic languages>Munda languages>North Munda>Kherwari>,091000,Mundari
+      >>Austroasiatic languages>Munda languages>North Munda>Santali language>Kherwari>,048000,Ho
+      >>Austroasiatic languages>Santali language>Andhra Pradesh>Sora language>Grammatical tense>,090000,Munda
+
+      >>Dravidian languages>,044000,Gondi
+      >>Dravidian languages>,049000,Jatapu
+      >>Dravidian languages>,063000,Kolami
+      >>Dravidian languages>,069000,Koya
+      >>Dravidian languages>Central Dravidian>,041000,Gadaba
+      >>Dravidian languages>Central Dravidian>,096000,Parji
+      >>Dravidian languages>Northern Dravidian languages>,060000,Kisan
+      >>Dravidian languages>Northern Dravidian languages>,083000,Malto
+      >>Dravidian languages>South-central Dravidian>Gondi-Kui languages>,058000,Khond/kondh
+      >>Dravidian languages>South-central Dravidian>Gondi-Kui languages>,065000,Konda
+      >>Dravidian languages>South-central Dravidian>Gondi-Kui languages>,070000,Kui
+      >>Dravidian languages>South-central Dravidian>Gondi-Kui languages>,072000,Kurukh/oraon
+      >>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Kannada–Badaga>,007000,Kannada
+      >>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Tamil–Kodagu languages>,037000,Coorgi/kodagu
+      >>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Tamil–Kodagu languages>Tamil–Malayalam languages>Malayalam languages>,011000,Malayalam
+      >>Dravidian languages>Southern Dravidian languages>Tamil–Kannada languages>Tamil–Kodagu languages>Tamil–Malayalam languages>Tamil languages>,020000,Tamil
+      >>Dravidian languages>Southern Dravidian>,116000,Tulu
+      >>Dravidian languages>Telugu languages>,021000,Telugu
+
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>,017000,Sanskrit
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Hindi languages>Western Hindi>Hindustani language>,022000,Urdu
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Hindi languages>Western Hindi>Hindustani language>,006000,Hindi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Indo-Aryan languages>,016000,Punjabi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Southern Indo-Aryan languages>Maharashtri Prakrit>Marathi–Konkani languages>,013000,Marathi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Southern Indo-Aryan languages>Marathi–Konkani languages>,009000,Konkani
+
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Bengali–Assamese languages>,001000,Assamese
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Bengali–Assamese languages>,002000,Bengali
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Bengali–Assamese languages>,033000,Bishnupuriya
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Bihari languages>,010000,Maithili
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Eastern Indo-Aryan languages>Halbic languages>,045000,Halabi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Indo-Aryan languages>Pahari languages>,014000,Nepali
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>List of Eastern Indo-Aryan languages>Odia languages>,015000,Oriya
+
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Northwestern Indo-Aryan languages>Western Pahari>,004000,Dogri
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Northwestern Indo-Aryan languages>,075000,Lahnda
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Sindhi languages>,019000,Sindhi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Dardic languages>,008000,Kashmiri
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Dardic languages>,108000,Shina
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Western Indo-Aryan languages>,030000,Bhili/bhilodi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Western Indo-Aryan languages>,053000,Khandeshi
+      >>Indo-European languages>Indo-Iranian languages>Indo-Aryan languages>Western Indo-Aryan languages>Gujarati languages>,005000,Gujarati
+      >>Indo-European languages>Indo-Iranian languages>Iranian languages>Eastern Iranian languages>,024000,Afghani/kabuli/pashto
+      >>Indo-European languages>Indo-Iranian languages>Iranian languages>Western Iranian languages>,098000,Persian
+      >>Afro-Asiatic>Semitic>Central Semitic>Arabic>,028000,Arabic/arbi
+
+      >>Sino-Tibetan languages>,012000,Manipuri
+      >>Sino-Tibetan languages>,087000,Mishmi
+      >>Sino-Tibetan languages>Angami–Pochuri languages>,106000,Sema
+      >>Sino-Tibetan languages>Angami–Pochuri languages>Angami languages>,026000,Angami
+      >>Sino-Tibetan languages>Angami–Pochuri languages>Angami languages>,034000,Chakhesang
+      >>Sino-Tibetan languages>Angami–Pochuri languages>Angami languages>,035000,Chakru/chokri
+      >>Sino-Tibetan languages>Angami–Pochuri languages>Angami languages>,056000,Khezha
+      >>Sino-Tibetan languages>Angami–Pochuri languages>Pochuri languages>,103000,Rengma
+      >>Sino-Tibetan languages>Ao languages>,027000,Ao
+      >>Sino-Tibetan languages>Ao languages>,081000,Lotha
+      >>Sino-Tibetan languages>Ao languages>,104000,Sangtam
+
+      >>Sino-Tibetan languages>Mahakiranti languages>Kiranti languages>,080000,Limbu
+      >>Sino-Tibetan languages>Mahakiranti languages>Kiranti languages>,102000,Rai  
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>,038000,Deori
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,003000,Bodo
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,039000,Dimasa
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,077000,Lalung
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Bodo–Garo languages>Garo languages>,043000,Garo
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Koch languages>,061000,Koch
+      >>Sino-Tibetan languages>Sal languages>Bodo–Koch languages>Koch languages>,101000,Rabha
+      >>Sino-Tibetan languages>Sal languages>Konyak languages>,112000,Tangsa
+
+      >>Sino-Tibetan languages>Tamangic languages>Writing system>,110000,Tamang
+      >>Sino-Tibetan languages>Tangkhul languages>,085000,Maring
+      >>Sino-Tibetan languages>Tangkhul languages>,111000,Tangkhul
+      >>Sino-Tibetan languages>Tani languages>,023000,Adi
+      >>Sino-Tibetan languages>Tani languages>,093000,Nissi/dafla
+      >>Sino-Tibetan languages>Tani languages>East Tani>Padam>,086000,Miri/mishing
+
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,046000,Halam
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,095000,Paite
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,113000,Thado
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,122000,Zou
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,025000,Anal
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,042000,Gangte
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,097000,Pawi
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,109000,Simte
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Kukish languages>,117000,Vaiphei
+
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>,089000,Monpa
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,029000,Balti
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,031000,Bhotia
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,073000,Ladakhi
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,074000,Lahauli
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,107000,Sherpa
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>Bodish languages>Tibetic languages>,114000,Tibetan
+      >>Sino-Tibetan languages>Tibeto-Kanauri languages>West Himalayish languages>,059000,Kinnauri
+
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Lolo–Burmese languages>Burmish languages>Burmese dialects>,088000,Mogh
+      >>Sino-Tibetan languages>Tibeto-Burman languages>Mizo language>,047000,Hmar
+      >>Sino-Tibetan languages>,078000,Lepcha
+      >>Sino-Tibetan languages>Zeme languages>,051000,Kabui
+      >>Sino-Tibetan languages>Zeme languages>,079000,Liangmei
+      >>Sino-Tibetan languages>Zeme languages>,084000,Maram
+      >>Sino-Tibetan languages>Zeme languages>,100000,Pochury
+      >>Sino-Tibetan languages>Zeme languages>,119000,Yimchungre
+      >>Sino-Tibetan languages>Zeme languages>,120000,Zeliang
+      >>Sino-Tibetan languages>Zeme languages>,121000,Zemi
+
+      >>Sino-Tibetan languages>Brahmaputran languages>Bodo–Koch languages>Bodo–Garo languages>Bodo languages>,115000,Tripuri
+      >>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,036000,Chang
+      >>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,066000,Konyak
+      >>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,094000,Nocte
+      >>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,099000,Phom
+      >>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>,118000,Wancho
+      >>Sino-Tibetan languages>Brahmaputran languages>Konyak languages>Konyak–Chang languages>,057000,Khiemnungan
+      >>Sino-Tibetan languages>Karbi language>Meithei language>,071000,Kuki
+      >>Sino-Tibetan languages>Kukish languages>Central languages>,082000,Lushai/mizo
+      >>Sino-Tibetan languages>Kukish languages>Maraic languages>,076000,Lakher
+      >>Sino-Tibetan languages>Kukish languages>Mikir languages>,052000,Karbi
+      >>Sino-Tibetan languages>Kukish languages>Northern>,064000,Kom
+
+      >>,123000,Others
+
+      >>Indo-European languages>Germanic languages>West Germanic languages>Ingvaeonic languages>Anglo-Frisian languages>English languages>,040000,English
+
+
