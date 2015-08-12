@@ -1,17 +1,17 @@
-        .subunit.Kupwara { fill: #B3260C; }
-        .subunit.Baramula { fill: #B3260C; }
-        .subunit.Srinagar { fill: #B3260C; }
-        .subunit.Badgam { fill: #B3260C; }
-        .subunit.Pulwama { fill: #B3260C; }
-        .subunit.Anantnag { fill: #B3260C; }
-        .subunit.Leh_Ladakh { fill: #B3260C; }
-        .subunit.Kargil { fill: #2025AD; }
-        .subunit.Doda { fill: #B3260C; }
-        .subunit.Udhampur { fill: #B3260C; }
-        .subunit.Punch { fill: #CD778F; }
-        .subunit.Rajauri { fill: #FB737A; }
-        .subunit.Jammu { fill: #B3260C; }
-        .subunit.Kathua { fill: #B3260C; }
+        .subunit.Kupwara { fill: #CD778F; }
+        .subunit.Baramula { fill: #CD778F; }
+        .subunit.Srinagar { fill: #CD778F; }
+        .subunit.Badgam { fill: #CD778F; }
+        .subunit.Pulwama { fill: #CD778F; }
+        .subunit.Anantnag { fill: #CD778F; }
+        .subunit.Leh_Ladakh { fill: #466BA7; }
+        .subunit.Kargil { fill: #333333; }
+        .subunit.Doda { fill: #CD778F; }
+        .subunit.Udhampur { fill: #FB737A; }
+        .subunit.Punch { fill: #B3260C; }
+        .subunit.Rajauri { fill: #B3260C; }
+        .subunit.Jammu { fill: #FB737A; }
+        .subunit.Kathua { fill: #FB737A; }
         .subunit.Chamba { fill: #FB737A; }
         .subunit.Kangra { fill: #A82926; }
         .subunit.Lahul_and_Spiti { fill: #333333; }
@@ -334,7 +334,36 @@
         .subunit.Gumla { fill: #073E26; }
         .subunit.Pashchimi_Singhbhum { fill: #E01A23; }
         .subunit.Purbi_Singhbhum { fill: #B3260C; }
+        .subunit.Bargarh { fill: #B3260C; }
+        .subunit.Jharsuguda { fill: #B3260C; }
+        .subunit.Sambalpur { fill: #B3260C; }
+        .subunit.Debagarh { fill: #B3260C; }
+        .subunit.Sundargarh { fill: #B3260C; }
+        .subunit.Kendujhar { fill: #B38E15; }
+        .subunit.Mayurbhanj { fill: #ED9544; }
+        .subunit.Baleshwar { fill: #8C1600; }
+        .subunit.Bhadrak { fill: #8C1600; }
+        .subunit.Kendrapara { fill: #E01A23; }
+        .subunit.Jagatsinghapur { fill: #8C1600; }
+        .subunit.Cuttack { fill: #8C1600; }
+        .subunit.Jajapur { fill: #8C1600; }
         .subunit.Dhenkanal { fill: #B36D15; }
+        .subunit.Anugul { fill: #B38E15; }
+        .subunit.Nayagarh { fill: #255540; }
+        .subunit.Khordha { fill: #8C1600; }
+        .subunit.Puri { fill: #8C1600; }
+        .subunit.Ganjam { fill: #B8DA99; }
+        .subunit.Gajapati { fill: #EDA244; }
+        .subunit.Kandhamal { fill: #255540; }
+        .subunit.Baudh { fill: #EDA244; }
+        .subunit.Sonapur { fill: #B8DA99; }
+        .subunit.Balangir { fill: #B3260C; }
+        .subunit.Nuapada { fill: #B3260C; }
+        .subunit.Kalahandi { fill: #255540; }
+        .subunit.Rayagada { fill: #255540; }
+        .subunit.Nabarangapur { fill: #2A8E63; }
+        .subunit.Koraput { fill: #255540; }
+        .subunit.Malkangiri { fill: #477C65; }
         .subunit.Koriya { fill: #EB4750; }
         .subunit.Surguja { fill: #073E26; }
         .subunit.Jashpur { fill: #073E26; }
