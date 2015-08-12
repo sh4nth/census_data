@@ -1,30 +1,36 @@
 Data                                                            Map
+-----------------------------------------------------------------------------------------                                                              
 "Central Delhi",					      <
-							      >	"Delhi",
-"Dibang Valley",					      <
-"East Delhi",						      <
-							      >	"East Midnapore",
-							      >	"Greater Bombay",
-							      >	"Jamtara",
-"Kheri",						      <
-							      >	"Kurung Kumey",
-							      >	"Lakhimpur Kheri",
-							      >	"Latehar",
-							      >	"Lower Dibang Valley",
-"Medinipur",						      <
-"Mumbai (Suburban)",					      <
-"Mumbai",						      <
 "New Delhi",						      <
 "North Delhi",						      <
 "North East Delhi",					      <
 "North West Delhi",					      <
-							      >	"Saraikela Kharsawan",
-							      >	"Simdega",
 "South Delhi",						      <
 "South West Delhi",					      <
-							      >	"Upper Dibang Valley",
 "West Delhi",						      <
+"East Delhi",						      <
+							      >	"Delhi",
+-----------------------------------------------------------------------------------------                                                              
+"Dibang Valley",					      <
+							      >	"Upper Dibang Valley",
+							      >	"Lower Dibang Valley",
+-----------------------------------------------------------------------------------------                                                              
+"Medinipur",						      <
+							      >	"East Midnapore",
 							      >	"West Midnapore",
+-----------------------------------------------------------------------------------------                                                              
+"Kheri",						      <
+							      >	"Lakhimpur Kheri",
+-----------------------------------------------------------------------------------------                                                              
+"Mumbai (Suburban)",					      <
+"Mumbai",						      <
+							      >	"Greater Bombay",
+-----------------------------------------------------------------------------------------                                                              
+							      >	"Jamtara",
+							      >	"Kurung Kumey",
+							      >	"Latehar",
+							      >	"Saraikela Kharsawan",
+							      >	"Simdega",
 							      >	"ZZZ-Anuppur",
 							      >	"ZZZ-Burhanpur",
 							      >	"ZZZ-ZZZ-Ashoknagar",
